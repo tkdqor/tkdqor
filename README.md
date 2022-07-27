@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center">그날 배운 내용을 <b>TIL</b>이라는 Repository에 기록하고 있으며,</p>
 <p align="center"><b>멋사 온앤오프</b>, <b>멋사 The Origin django 프로그램</b>, <b>원티드 프리온보딩 백엔드 코스</b>를 진행했습니다.</p>
 <p align="center"><b>DBeaver</b>라는 DB 관리 툴을 자주 사용하고 있고, <b>DRF(Django REST Framework)</b>로 django 기반의 API 서버를 개발해본 경험이 있습니다.</p>
-<p align="center">최근에는 원티드 프리온보딩 백엔드 코스를 통해 <b>코드 및 commit 컨벤션</b>의 중요성을 인식하고 정해진 컨벤션에 맞춰 코드를 작성하려고 노력하고 있습니다.</p>
+<p align="center">원티드 프리온보딩 백엔드 코스를 통해 <b>코드 및 commit 컨벤션</b>의 중요성을 인식하고 정해진 컨벤션에 맞춰 코드를 작성하려고 노력하고 있습니다.</p>
 <p align="center"><b>Slack</b>, <b>트렐로</b>, <b>Jira</b>, <b>Github 칸반보드</b>로 협업 및 프로젝트를 진행해본 경험을 바탕으로</p>
 <p align="center"><b>업무의 기한 및 우선순위를 파악하고 소통하는 데 문제가 없는 개발자가 되고 싶습니다.😄</b></p>
 
