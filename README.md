@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 <br>
 
 <div>
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkdqor&layout=compact&theme=github_dark" height="165">
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=tkdqor&show_icons=true&theme=github_dark" height="165">
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkdqor&layout=compact&theme=github_dark" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=tkdqor&show_icons=true&theme=github_dark" height="165">
 </div>
 
 <br>
