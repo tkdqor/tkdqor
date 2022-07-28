@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center"><b>Email</b> : aumsbk@naver.com, aumsbk@gmail.com</p>
+<p align="center"><b>Email</b> : aumsbk@gmail.com</p>
 <p align="center"><b>Blog</b> : https://velog.io/@aumsbk</p>
 
 <br>
