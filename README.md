@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 
 <br>
 
+<p align="center">
+<b>노션 이력서</b> : <br>
+<a href="https://cuddly-bacon-1e3.notion.site/6dbf47cfd9174ca4a588459594fb1c62">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a>
+</p>
 <p align="center"><b>Email</b> : aumsbk@gmail.com</p>
 <p align="center"><b>Blog</b> : https://velog.io/@aumsbk</p>
 
