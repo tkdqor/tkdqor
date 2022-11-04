@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center">2021년까지 회사에서 <b>회계/자금</b> 관련 업무를 진행하다가 2022년부터 개발자가 되기 위해 공부 중입니다.</p>
+<p align="center">2021년까지 회사에서 <b>회계/자금</b> 관련 업무를 진행하다가 현재는 <b>큐리어슬리</b>의 백엔드 개발자로 근무중입니다.</p>
 <p align="center"><b>Python</b>과 <b>Django</b>로 웹 개발 공부를 해오고 있습니다.</p>
 <p align="center">그날 배운 내용을 <b>TIL</b>이라는 Repository에 기록하고 있으며,</p>
 <p align="center"><b>멋사 온앤오프</b>, <b>멋사 The Origin django 프로그램</b>, <b>원티드 프리온보딩 백엔드 코스</b>를 진행했습니다.</p>
