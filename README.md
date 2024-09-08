@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="center"><b>Slack</b>, <b>트렐로</b>, <b>Jira</b>, <b>Github 칸반보드</b>로 협업 및 프로젝트를 진행해 본 경험을 바탕으로</p>
 <p align="center"><b>업무의 기한 및 우선순위를 파악하고 소통하는 데 문제가 없는 개발자가 되고 싶습니다.😄</b></p> -->
 
-<br>
+<!--<br>
 
 <p align="center">
 <b>노션 이력서</b> : <br>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center"><b>Email</b> : aumsbk@gmail.com</p>
 
-<br>
+<br>-->
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkdqor&layout=compact&theme=github_dark" height="165">
